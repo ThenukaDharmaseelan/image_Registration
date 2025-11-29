@@ -1,0 +1,36 @@
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.weights
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Data files
+*.npy
+*.npz
+
+# Images (results)
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# IDE
+.vscode/
+.idea/
+
+# Large data and results directories
+*/data/
+*/results/
+*/Saved_model/
+*/saved_ckpt/
+*_Image_Registration_Results/
+Retinal_quality/
+ALL-AV/

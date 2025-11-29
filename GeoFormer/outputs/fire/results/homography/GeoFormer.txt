@@ -1,0 +1,2837 @@
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+
+Matching thres: 0.2
+
+==========================================================================================
+Pair ID         | MLE (pixels)    | Accuracy     | Matches     
+==========================================================================================
+S10_1_2         | Error: Can't conv | FAIL         | N/A         
+P26_1_2         | Error: Can't conv | FAIL         | N/A         
+S67_1_2         | Error: Can't conv | FAIL         | N/A         
+S01_1_2         | Error: Can't conv | FAIL         | N/A         
+P09_1_2         | Error: Can't conv | FAIL         | N/A         
+P11_1_2         | Error: Can't conv | FAIL         | N/A         
+S17_1_2         | Error: Can't conv | FAIL         | N/A         
+S65_1_2         | Error: Can't conv | FAIL         | N/A         
+S52_1_2         | Error: Can't conv | FAIL         | N/A         
+S44_1_2         | Error: Can't conv | FAIL         | N/A         
+S02_1_2         | Error: Can't conv | FAIL         | N/A         
+S42_1_2         | Error: Can't conv | FAIL         | N/A         
+P28_1_2         | Error: Can't conv | FAIL         | N/A         
+S56_1_2         | Error: Can't conv | FAIL         | N/A         
+P02_1_2         | Error: Can't conv | FAIL         | N/A         
+S06_1_2         | Error: Can't conv | FAIL         | N/A         
+P43_1_2         | Error: Can't conv | FAIL         | N/A         
+S33_1_2         | Error: Can't conv | FAIL         | N/A         
+S55_1_2         | Error: Can't conv | FAIL         | N/A         
+P29_1_2         | Error: Can't conv | FAIL         | N/A         
+P31_1_2         | Error: Can't conv | FAIL         | N/A         
+S32_1_2         | Error: Can't conv | FAIL         | N/A         
+P15_1_2         | Error: Can't conv | FAIL         | N/A         
+A02_1_2         | Error: Can't conv | FAIL         | N/A         
+S25_1_2         | Error: Can't conv | FAIL         | N/A         
+S60_1_2         | Error: Can't conv | FAIL         | N/A         
+A07_1_2         | Error: Can't conv | FAIL         | N/A         
+A09_1_2         | Error: Can't conv | FAIL         | N/A         
+P16_1_2         | Error: Can't conv | FAIL         | N/A         
+A10_1_2         | Error: Can't conv | FAIL         | N/A         
+S27_1_2         | Error: Can't conv | FAIL         | N/A         
+S48_1_2         | Error: Can't conv | FAIL         | N/A         
+P12_1_2         | Error: Can't conv | FAIL         | N/A         
+S71_1_2         | Error: Can't conv | FAIL         | N/A         
+S69_1_2         | Error: Can't conv | FAIL         | N/A         
+S07_1_2         | Error: Can't conv | FAIL         | N/A         
+S24_1_2         | Error: Can't conv | FAIL         | N/A         
+S18_1_2         | Error: Can't conv | FAIL         | N/A         
+P27_1_2         | Error: Can't conv | FAIL         | N/A         
+S45_1_2         | Error: Can't conv | FAIL         | N/A         
+P20_1_2         | Error: Can't conv | FAIL         | N/A         
+S16_1_2         | Error: Can't conv | FAIL         | N/A         
+S03_1_2         | Error: Can't conv | FAIL         | N/A         
+S49_1_2         | Error: Can't conv | FAIL         | N/A         
+P47_1_2         | Error: Can't conv | FAIL         | N/A         
+S12_1_2         | Error: Can't conv | FAIL         | N/A         
+P49_1_2         | Error: Can't conv | FAIL         | N/A         
+P42_1_2         | Error: Can't conv | FAIL         | N/A         
+P34_1_2         | Error: Can't conv | FAIL         | N/A         
+P38_1_2         | Error: Can't conv | FAIL         | N/A         
+S28_1_2         | Error: Can't conv | FAIL         | N/A         
+S23_1_2         | Error: Can't conv | FAIL         | N/A         
+P01_1_2         | Error: Can't conv | FAIL         | N/A         
+S62_1_2         | Error: Can't conv | FAIL         | N/A         
+P14_1_2         | Error: Can't conv | FAIL         | N/A         
+A04_1_2         | Error: Can't conv | FAIL         | N/A         
+P33_1_2         | Error: Can't conv | FAIL         | N/A         
+P22_1_2         | Error: Can't conv | FAIL         | N/A         
+S57_1_2         | Error: Can't conv | FAIL         | N/A         
+S22_1_2         | Error: Can't conv | FAIL         | N/A         
+S13_1_2         | Error: Can't conv | FAIL         | N/A         
+S63_1_2         | Error: Can't conv | FAIL         | N/A         
+A11_1_2         | Error: Can't conv | FAIL         | N/A         
+P10_1_2         | Error: Can't conv | FAIL         | N/A         
+P46_1_2         | Error: Can't conv | FAIL         | N/A         
+P13_1_2         | Error: Can't conv | FAIL         | N/A         
+P30_1_2         | Error: Can't conv | FAIL         | N/A         
+S20_1_2         | Error: Can't conv | FAIL         | N/A         
+S38_1_2         | Error: Can't conv | FAIL         | N/A         
+S40_1_2         | Error: Can't conv | FAIL         | N/A         
+A13_1_2         | Error: Can't conv | FAIL         | N/A         
+S34_1_2         | Error: Can't conv | FAIL         | N/A         
+S51_1_2         | Error: Can't conv | FAIL         | N/A         
+S68_1_2         | Error: Can't conv | FAIL         | N/A         
+P25_1_2         | Error: Can't conv | FAIL         | N/A         
+S14_1_2         | Error: Can't conv | FAIL         | N/A         
+S26_1_2         | Error: Can't conv | FAIL         | N/A         
+P08_1_2         | Error: Can't conv | FAIL         | N/A         
+P44_1_2         | Error: Can't conv | FAIL         | N/A         
+S15_1_2         | Error: Can't conv | FAIL         | N/A         
+S66_1_2         | Error: Can't conv | FAIL         | N/A         
+S09_1_2         | Error: Can't conv | FAIL         | N/A         
+S64_1_2         | Error: Can't conv | FAIL         | N/A         
+P03_1_2         | Error: Can't conv | FAIL         | N/A         
+S35_1_2         | Error: Can't conv | FAIL         | N/A         
+P07_1_2         | Error: Can't conv | FAIL         | N/A         
+S50_1_2         | Error: Can't conv | FAIL         | N/A         
+A05_1_2         | Error: Can't conv | FAIL         | N/A         
+S19_1_2         | Error: Can't conv | FAIL         | N/A         
+P32_1_2         | Error: Can't conv | FAIL         | N/A         
+P24_1_2         | Error: Can't conv | FAIL         | N/A         
+P17_1_2         | Error: Can't conv | FAIL         | N/A         
+P41_1_2         | Error: Can't conv | FAIL         | N/A         
+S08_1_2         | Error: Can't conv | FAIL         | N/A         
+P04_1_2         | Error: Can't conv | FAIL         | N/A         
+A01_1_2         | Error: Can't conv | FAIL         | N/A         
+A08_1_2         | Error: Can't conv | FAIL         | N/A         
+P35_1_2         | Error: Can't conv | FAIL         | N/A         
+S58_1_2         | Error: Can't conv | FAIL         | N/A         
+S53_1_2         | Error: Can't conv | FAIL         | N/A         
+S47_1_2         | Error: Can't conv | FAIL         | N/A         
+S11_1_2         | Error: Can't conv | FAIL         | N/A         
+S61_1_2         | Error: Can't conv | FAIL         | N/A         
+S21_1_2         | Error: Can't conv | FAIL         | N/A         
+S54_1_2         | Error: Can't conv | FAIL         | N/A         
+P48_1_2         | Error: Can't conv | FAIL         | N/A         
+P39_1_2         | Error: Can't conv | FAIL         | N/A         
+A03_1_2         | Error: Can't conv | FAIL         | N/A         
+P36_1_2         | Error: Can't conv | FAIL         | N/A         
+P18_1_2         | Error: Can't conv | FAIL         | N/A         
+P23_1_2         | Error: Can't conv | FAIL         | N/A         
+A06_1_2         | Error: Can't conv | FAIL         | N/A         
+S70_1_2         | Error: Can't conv | FAIL         | N/A         
+P40_1_2         | Error: Can't conv | FAIL         | N/A         
+S29_1_2         | Error: Can't conv | FAIL         | N/A         
+P05_1_2         | Error: Can't conv | FAIL         | N/A         
+A14_1_2         | Error: Can't conv | FAIL         | N/A         
+S41_1_2         | Error: Can't conv | FAIL         | N/A         
+S36_1_2         | Error: Can't conv | FAIL         | N/A         
+S37_1_2         | Error: Can't conv | FAIL         | N/A         
+P19_1_2         | Error: Can't conv | FAIL         | N/A         
+A12_1_2         | Error: Can't conv | FAIL         | N/A         
+P21_1_2         | Error: Can't conv | FAIL         | N/A         
+S43_1_2         | Error: Can't conv | FAIL         | N/A         
+S59_1_2         | Error: Can't conv | FAIL         | N/A         
+P45_1_2         | Error: Can't conv | FAIL         | N/A         
+S04_1_2         | Error: Can't conv | FAIL         | N/A         
+S30_1_2         | Error: Can't conv | FAIL         | N/A         
+S31_1_2         | Error: Can't conv | FAIL         | N/A         
+P06_1_2         | Error: Can't conv | FAIL         | N/A         
+S05_1_2         | Error: Can't conv | FAIL         | N/A         
+S46_1_2         | Error: Can't conv | FAIL         | N/A         
+S39_1_2         | Error: Can't conv | FAIL         | N/A         
+==========================================================================================
+
+OVERALL STATISTICS:
+==========================================================================================
+No valid MLE measurements
+
+Total Pairs:      133
+Correct Pairs:    0
+Overall Accuracy: 0.00%
+==========================================================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+
+Matching thres: 0.2
+
+====================================================================================================
+Pair ID         | MLE (pixels)       | Accuracy     | Matches         | Status
+====================================================================================================
+S10_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P26_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S67_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S01_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P09_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P11_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S17_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S65_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S52_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S44_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S02_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S42_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P28_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S56_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P02_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S06_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P43_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S33_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S55_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P29_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P31_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S32_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P15_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A02_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S25_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S60_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A07_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A09_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P16_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A10_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S27_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S48_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P12_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S71_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S69_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S07_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S24_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S18_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P27_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S45_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P20_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S16_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S03_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S49_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P47_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S12_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P49_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P42_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P34_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P38_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S28_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S23_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P01_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S62_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P14_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A04_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P33_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P22_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S57_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S22_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S13_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S63_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A11_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P10_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P46_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P13_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P30_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S20_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S38_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S40_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A13_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S34_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S51_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S68_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P25_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S14_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S26_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P08_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P44_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S15_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S66_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S09_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S64_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P03_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S35_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P07_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S50_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A05_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S19_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P32_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P24_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P17_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P41_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S08_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P04_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A01_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A08_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P35_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S58_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S53_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S47_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S11_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S61_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S21_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S54_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P48_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P39_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A03_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P36_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P18_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P23_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A06_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S70_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P40_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S29_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P05_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A14_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S41_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S36_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S37_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P19_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+A12_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P21_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S43_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S59_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P45_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S04_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S30_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S31_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+P06_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S05_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S46_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+S39_1_2         | N/A                | FAIL         | N/A             | Error: Can't convert object to 'str' 
+====================================================================================================
+
+OVERALL STATISTICS:
+====================================================================================================
+Successful Pairs: 0/133
+No valid MLE measurements - all pairs failed!
+
+Total Pairs:      133
+Successful:       0
+Correct (MLE<10): 0
+Accuracy:         0.00% (of successful pairs)
+====================================================================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+
+Matching thres: 0.2
+
+====================================================================================================
+Pair ID         | MLE (pixels)       | Accuracy     | Matches         | Status
+====================================================================================================
+S10_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P26_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S67_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S01_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P09_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P11_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S17_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S65_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S52_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S44_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S02_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S42_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P28_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S56_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P02_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S06_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P43_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S33_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S55_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P29_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P31_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S32_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P15_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A02_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S25_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S60_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A07_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A09_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P16_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A10_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S27_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S48_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P12_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S71_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S69_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S07_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S24_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S18_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P27_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S45_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P20_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S16_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S03_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S49_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P47_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S12_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P49_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P42_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P34_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P38_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S28_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S23_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P01_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S62_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P14_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A04_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P33_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P22_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S57_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S22_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S13_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S63_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A11_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P10_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P46_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P13_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P30_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S20_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S38_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S40_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A13_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S34_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S51_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S68_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P25_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S14_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S26_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P08_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P44_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S15_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S66_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S09_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S64_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P03_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S35_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P07_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S50_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A05_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S19_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P32_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P24_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P17_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P41_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S08_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P04_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A01_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A08_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P35_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S58_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S53_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S47_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S11_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S61_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S21_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S54_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P48_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P39_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A03_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P36_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P18_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P23_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A06_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S70_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P40_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S29_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P05_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A14_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S41_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S36_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S37_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P19_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+A12_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P21_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S43_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S59_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P45_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S04_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S30_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S31_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+P06_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S05_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S46_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+S39_1_2         | N/A                | FAIL         | N/A             | Error: tuple indices must be integers or slices
+====================================================================================================
+
+OVERALL STATISTICS:
+====================================================================================================
+Successful Pairs: 0/133
+No valid MLE measurements - all pairs failed!
+
+Total Pairs:      133
+Successful:       0
+Correct (MLE<10): 0
+Accuracy:         0.00% (of successful pairs)
+====================================================================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+
+Matching thres: 0.2
+
+====================================================================================================
+Pair ID         | MLE (pixels)       | Accuracy     | Matches         | Status
+====================================================================================================
+S10_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P26_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S67_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S01_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P09_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P11_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S17_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S65_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S52_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S44_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S02_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S42_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P28_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S56_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P02_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S06_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P43_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S33_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S55_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P29_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P31_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S32_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P15_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A02_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S25_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S60_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A07_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A09_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P16_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A10_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S27_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S48_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P12_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S71_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S69_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S07_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S24_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S18_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P27_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S45_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P20_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S16_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S03_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S49_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P47_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S12_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P49_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P42_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P34_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P38_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S28_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S23_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P01_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S62_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P14_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A04_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P33_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P22_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S57_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S22_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S13_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S63_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A11_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P10_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P46_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P13_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P30_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S20_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S38_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S40_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A13_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S34_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S51_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S68_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P25_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S14_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S26_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P08_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P44_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S15_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S66_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S09_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S64_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P03_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S35_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P07_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S50_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A05_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S19_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P32_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P24_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P17_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P41_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S08_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P04_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A01_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A08_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P35_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S58_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S53_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S47_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S11_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S61_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S21_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S54_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P48_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P39_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A03_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P36_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P18_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P23_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A06_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S70_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P40_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S29_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P05_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A14_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S41_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S36_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S37_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P19_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A12_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P21_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S43_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S59_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P45_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S04_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S30_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S31_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P06_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S05_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S46_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S39_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+====================================================================================================
+
+OVERALL STATISTICS:
+====================================================================================================
+Successful Pairs: 0/133
+No valid MLE measurements - all pairs failed!
+
+Total Pairs:      133
+Successful:       0
+Correct (MLE<10): 0
+Accuracy:         0.00% (of successful pairs)
+====================================================================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+
+Matching thres: 0.2
+
+====================================================================================================
+Pair ID         | MLE (pixels)       | Accuracy     | Matches         | Status
+====================================================================================================
+S10_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P26_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S67_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S01_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P09_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P11_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S17_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S65_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S52_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S44_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S02_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S42_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P28_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S56_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P02_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S06_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P43_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S33_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S55_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P29_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P31_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S32_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P15_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A02_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S25_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S60_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A07_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A09_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P16_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A10_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S27_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S48_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P12_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S71_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S69_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S07_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S24_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S18_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P27_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S45_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P20_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S16_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S03_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S49_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P47_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S12_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P49_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P42_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P34_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P38_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S28_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S23_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P01_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S62_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P14_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A04_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P33_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P22_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S57_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S22_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S13_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S63_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A11_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P10_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P46_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P13_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P30_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S20_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S38_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S40_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A13_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S34_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S51_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S68_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P25_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S14_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S26_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P08_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P44_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S15_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S66_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S09_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S64_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P03_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S35_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P07_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S50_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A05_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S19_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P32_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P24_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P17_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P41_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S08_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P04_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A01_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A08_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P35_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S58_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S53_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S47_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S11_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S61_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S21_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S54_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P48_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P39_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A03_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P36_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P18_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P23_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A06_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S70_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P40_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S29_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P05_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A14_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S41_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S36_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S37_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P19_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+A12_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P21_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S43_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S59_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P45_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S04_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S30_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S31_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+P06_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S05_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S46_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+S39_1_2         | N/A                | FAIL         | N/A             | Error: OpenCV(4.6.0) /io/opencv/modules/calib3d
+====================================================================================================
+
+OVERALL STATISTICS:
+====================================================================================================
+Successful Pairs: 0/133
+No valid MLE measurements - all pairs failed!
+
+Total Pairs:      133
+Successful:       0
+Correct (MLE<10): 0
+Accuracy:         0.00% (of successful pairs)
+====================================================================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Eval FIRE: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>> Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Eval FIRE: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>> Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Eval FIRE: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>> Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Eval FIRE: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>> Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Eval FIRE: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>> Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Eval FIRE: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>> Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Eval FIRE: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>> Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Eval FIRE: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>> Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=mle est_failed=0 ransac_thres=15 inlier_rate=0.99
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=mle est_failed=0 ransac_thres=15 inlier_rate=0.99
+MLE dist: s=2.4388 p=11.0175 a=6.5233 total=6.6599 m=5.9648
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=mle est_failed=0 ransac_thres=15 inlier_rate=0.99
+MLE dist: s=2.4680 p=10.9151 a=6.3524 total=6.5785 m=5.9255
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=mle est_failed=0 ransac_thres=15 inlier_rate=0.99
+MLE dist: s=2.4441 p=10.9594 a=6.3744 total=6.5927 m=5.9310
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=133 match_failed=0 matches=4237.4 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=mle est_failed=0 ransac_thres=15 inlier_rate=0.99
+MLE dist: s=2.4433 p=10.9408 a=6.2714 total=6.5518 m=5.9130
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=mle est_failed=0 ransac_thres=15 inlier_rate=0.99
+MLE dist: s=2.4154 p=11.1895 a=6.6417 total=6.7489 m=6.0654
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=mle est_failed=0 ransac_thres=15 inlier_rate=0.99
+MLE dist: s=2.4112 p=11.1534 a=6.3281 total=6.6309 m=6.0172
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=mle est_failed=0 ransac_thres=15 inlier_rate=0.99
+MLE dist: s=2.3923 p=11.2586 a=6.6933 total=6.7814 m=6.0838
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+============================================================
+Runtime Statistics for threshold 0.2:
+  Total images processed: 134
+  Average time per image: 0.3282s
+  Min time per image: 0.2229s
+  Max time per image: 0.8235s
+  Total matching time: 43.9803s
+  Total threshold time: 44.6677s
+  Overhead (non-matching): 0.6874s
+============================================================
+
+
+============================================================
+Total runtime for method GeoFormer: 44.6707s (0.74 min)
+============================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=mle est_failed=0 ransac_thres=15 inlier_rate=0.99
+MLE dist: s=2.4749 p=11.2334 a=6.4691 total=6.7258 m=6.0950
+
+============================================================
+Runtime Statistics for threshold 0.2:
+  Total images processed: 134
+  Average time per image: 0.3268s
+  Min time per image: 0.2205s
+  Max time per image: 0.8181s
+  Total matching time: 43.7904s
+  Total threshold time: 44.8188s
+  Overhead (non-matching): 1.0284s
+============================================================
+
+
+============================================================
+Total runtime for method GeoFormer: 44.8217s (0.75 min)
+============================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.34s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+============================================================
+Runtime Statistics for threshold 0.2:
+  Total images processed: 134
+  Average time per image: 0.3400s
+  Min time per image: 0.2264s
+  Max time per image: 1.2973s
+  Total matching time: 45.5542s
+  Total threshold time: 46.9655s
+  Overhead (non-matching): 1.4113s
+============================================================
+
+
+============================================================
+Total runtime for method GeoFormer: 46.9688s (0.78 min)
+============================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+============================================================
+Per-Image MLE Results for threshold 0.2:
+============================================================
+Image Pair                                            MLE Distance
+-----------------------------------------------------------------
+S10_2.jpg__S10_1.jpg                                        2.6752
+P26_2.jpg__P26_1.jpg                                        9.8535
+S67_2.jpg__S67_1.jpg                                        1.5945
+S01_2.jpg__S01_1.jpg                                        2.8424
+P09_2.jpg__P09_1.jpg                                       16.0812
+P11_2.jpg__P11_1.jpg                                        9.7435
+S17_2.jpg__S17_1.jpg                                        2.3023
+S65_2.jpg__S65_1.jpg                                        1.7205
+S52_2.jpg__S52_1.jpg                                        1.1415
+S44_2.jpg__S44_1.jpg                                        2.7428
+S02_2.jpg__S02_1.jpg                                        2.5145
+S42_2.jpg__S42_1.jpg                                        4.4864
+P28_2.jpg__P28_1.jpg                                       11.6628
+S56_2.jpg__S56_1.jpg                                        3.9265
+P02_2.jpg__P02_1.jpg                                        4.3982
+S06_2.jpg__S06_1.jpg                                        2.3920
+P43_2.jpg__P43_1.jpg                                       10.4488
+S33_2.jpg__S33_1.jpg                                        1.5935
+S55_2.jpg__S55_1.jpg                                        1.7332
+P29_2.jpg__P29_1.jpg                                       10.1673
+P31_2.jpg__P31_1.jpg                                       13.9206
+S32_2.jpg__S32_1.jpg                                        3.2329
+P15_2.jpg__P15_1.jpg                                       11.6723
+A02_2.jpg__A02_1.jpg                                        9.3873
+S25_2.jpg__S25_1.jpg                                        2.1700
+S60_2.jpg__S60_1.jpg                                        2.3801
+A07_2.jpg__A07_1.jpg                                        8.1760
+A09_2.jpg__A09_1.jpg                                        7.4841
+P16_2.jpg__P16_1.jpg                                       10.1185
+A10_2.jpg__A10_1.jpg                                        4.0420
+S27_2.jpg__S27_1.jpg                                        2.4379
+S48_2.jpg__S48_1.jpg                                        1.9369
+P12_2.jpg__P12_1.jpg                                       14.2542
+S71_2.jpg__S71_1.jpg                                        4.8557
+S69_2.jpg__S69_1.jpg                                        3.0760
+S07_2.jpg__S07_1.jpg                                        1.1429
+S24_2.jpg__S24_1.jpg                                        2.3780
+S18_2.jpg__S18_1.jpg                                        2.3373
+P27_2.jpg__P27_1.jpg                                       10.7251
+S45_2.jpg__S45_1.jpg                                        2.9364
+P20_2.jpg__P20_1.jpg                                       10.7757
+S16_2.jpg__S16_1.jpg                                        2.4792
+S03_2.jpg__S03_1.jpg                                        3.8119
+S49_2.jpg__S49_1.jpg                                        2.4112
+P47_2.jpg__P47_1.jpg                                        9.8934
+S12_2.jpg__S12_1.jpg                                        1.7400
+P49_2.jpg__P49_1.jpg                                       10.5638
+P42_2.jpg__P42_1.jpg                                       10.3838
+P34_2.jpg__P34_1.jpg                                       10.9820
+P38_2.jpg__P38_1.jpg                                       12.8466
+S28_2.jpg__S28_1.jpg                                        2.7399
+S23_2.jpg__S23_1.jpg                                        2.5401
+P01_2.jpg__P01_1.jpg                                        8.5523
+S62_2.jpg__S62_1.jpg                                        2.6483
+P14_2.jpg__P14_1.jpg                                       14.7204
+A04_2.jpg__A04_1.jpg                                        3.7147
+P33_2.jpg__P33_1.jpg                                        8.3788
+P22_2.jpg__P22_1.jpg                                       11.8686
+S57_2.jpg__S57_1.jpg                                        2.2909
+S22_2.jpg__S22_1.jpg                                        2.1016
+S13_2.jpg__S13_1.jpg                                        2.6275
+S63_2.jpg__S63_1.jpg                                        2.7959
+A11_2.jpg__A11_1.jpg                                        2.6640
+P10_2.jpg__P10_1.jpg                                       13.8715
+P46_2.jpg__P46_1.jpg                                       10.2243
+P13_2.jpg__P13_1.jpg                                       11.2969
+P30_2.jpg__P30_1.jpg                                       15.9430
+S20_2.jpg__S20_1.jpg                                        2.2345
+S38_2.jpg__S38_1.jpg                                        1.7239
+S40_2.jpg__S40_1.jpg                                        2.8445
+A13_2.jpg__A13_1.jpg                                        5.6951
+S34_2.jpg__S34_1.jpg                                        1.7857
+S51_2.jpg__S51_1.jpg                                        0.9816
+S68_2.jpg__S68_1.jpg                                        1.3187
+P25_2.jpg__P25_1.jpg                                        9.1667
+S14_2.jpg__S14_1.jpg                                        1.7717
+S26_2.jpg__S26_1.jpg                                        2.0745
+P08_2.jpg__P08_1.jpg                                       10.2623
+P44_2.jpg__P44_1.jpg                                       10.3212
+S15_2.jpg__S15_1.jpg                                        1.8617
+S66_2.jpg__S66_1.jpg                                        2.6945
+S09_2.jpg__S09_1.jpg                                        1.5211
+S64_2.jpg__S64_1.jpg                                        2.4099
+P03_2.jpg__P03_1.jpg                                        8.8596
+S35_2.jpg__S35_1.jpg                                        1.8138
+P07_2.jpg__P07_1.jpg                                        9.2774
+S50_2.jpg__S50_1.jpg                                        1.8808
+A05_2.jpg__A05_1.jpg                                        6.4970
+S19_2.jpg__S19_1.jpg                                        1.9606
+P32_2.jpg__P32_1.jpg                                        6.8669
+P24_2.jpg__P24_1.jpg                                       10.3509
+P17_2.jpg__P17_1.jpg                                       18.6281
+P41_2.jpg__P41_1.jpg                                       13.0092
+S08_2.jpg__S08_1.jpg                                        1.3636
+P04_2.jpg__P04_1.jpg                                       12.6992
+A01_2.jpg__A01_1.jpg                                        3.0844
+A08_2.jpg__A08_1.jpg                                       21.4035
+P35_2.jpg__P35_1.jpg                                       13.5175
+S58_2.jpg__S58_1.jpg                                        2.4021
+S53_2.jpg__S53_1.jpg                                        3.8582
+S47_2.jpg__S47_1.jpg                                        1.9539
+S11_2.jpg__S11_1.jpg                                        2.2588
+S61_2.jpg__S61_1.jpg                                        0.7509
+S21_2.jpg__S21_1.jpg                                        2.5123
+S54_2.jpg__S54_1.jpg                                        2.8310
+P48_2.jpg__P48_1.jpg                                        9.5290
+P39_2.jpg__P39_1.jpg                                        8.1405
+A03_2.jpg__A03_1.jpg                                        5.1933
+P36_2.jpg__P36_1.jpg                                       13.0449
+P18_2.jpg__P18_1.jpg                                       12.9837
+P23_2.jpg__P23_1.jpg                                       15.0603
+P37_2.jpg__P37_1.jpg                                       23.9930
+A06_2.jpg__A06_1.jpg                                        5.8553
+S70_2.jpg__S70_1.jpg                                        3.0576
+P40_2.jpg__P40_1.jpg                                        7.3715
+S29_2.jpg__S29_1.jpg                                        2.2707
+P05_2.jpg__P05_1.jpg                                       13.6541
+A14_2.jpg__A14_1.jpg                                        5.6790
+S41_2.jpg__S41_1.jpg                                        2.2652
+S36_2.jpg__S36_1.jpg                                        2.5701
+S37_2.jpg__S37_1.jpg                                        2.1523
+P19_2.jpg__P19_1.jpg                                        8.0731
+A12_2.jpg__A12_1.jpg                                        3.3171
+P21_2.jpg__P21_1.jpg                                       10.5244
+S43_2.jpg__S43_1.jpg                                        2.1653
+S59_2.jpg__S59_1.jpg                                        4.0588
+P45_2.jpg__P45_1.jpg                                        8.0120
+S04_2.jpg__S04_1.jpg                                        2.3673
+S30_2.jpg__S30_1.jpg                                        2.3796
+S31_2.jpg__S31_1.jpg                                        3.0953
+P06_2.jpg__P06_1.jpg                                        8.1531
+S05_2.jpg__S05_1.jpg                                        2.2858
+S46_2.jpg__S46_1.jpg                                        3.5632
+S39_2.jpg__S39_1.jpg                                        2.9395
+-----------------------------------------------------------------
+MLE Statistics:
+  Average MLE: 6.1026
+  Min MLE: 0.7509
+  Max MLE: 23.9930
+============================================================
+
+
+============================================================
+Runtime Statistics for threshold 0.2:
+  Total images processed: 134
+  Average time per image: 0.3263s
+  Min time per image: 0.2218s
+  Max time per image: 0.8262s
+  Total matching time: 43.7235s
+  Total threshold time: 44.4128s
+  Overhead (non-matching): 0.6892s
+============================================================
+
+
+============================================================
+Total runtime for method GeoFormer: 44.4165s (0.74 min)
+============================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.34s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+================================================================================
+PAIR-WISE MLE STATISTICS (Threshold 0.2):
+================================================================================
+Category             N       Mean        Std        Min        Max     Median
+--------------------------------------------------------------------------------
+Overall            134     6.1026     4.8629     0.7509    23.9930     3.4401
+S                    0     0.0000     0.0000     0.0000     0.0000     0.0000
+A                    0     0.0000     0.0000     0.0000     0.0000     0.0000
+P                    0     0.0000     0.0000     0.0000     0.0000     0.0000
+================================================================================
+
+================================================================================
+LATEX TABLE FORMAT:
+================================================================================
+GeoFormer  & 6.10\pm4.86 & 0.00\pm0.00 & 0.00\pm0.00 & 0.00\pm0.00 \\
+================================================================================
+
+
+============================================================
+Runtime Statistics for threshold 0.2:
+  Total images processed: 134
+  Average time per image: 0.3411s
+  Min time per image: 0.2264s
+  Max time per image: 1.2872s
+  Total matching time: 45.7122s
+  Total threshold time: 47.0410s
+  Overhead (non-matching): 1.3288s
+============================================================
+
+
+============================================================
+Total runtime for method GeoFormer: 47.0447s (0.78 min)
+============================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+================================================================================
+CATEGORY DISTRIBUTION:
+================================================================================
+Class S: 0 pairs
+Class A: 0 pairs
+Class P: 0 pairs
+Unknown: 134 pairs
+================================================================================
+
+
+================================================================================
+PAIR-WISE MLE STATISTICS (Threshold 0.2):
+================================================================================
+Category             N       Mean        Std        Min        Max     Median
+--------------------------------------------------------------------------------
+Overall            134     6.1026     4.8629     0.7509    23.9930     3.4401
+S                    0     0.0000     0.0000     0.0000     0.0000     0.0000
+A                    0     0.0000     0.0000     0.0000     0.0000     0.0000
+P                    0     0.0000     0.0000     0.0000     0.0000     0.0000
+================================================================================
+
+WARNING: Some categories have no pairs. Check category detection logic.
+Sample ground truth files: ['control_points_S10_1_2.txt', 'control_points_P26_1_2.txt', 'control_points_S67_1_2.txt', 'control_points_S01_1_2.txt', 'control_points_P09_1_2.txt']
+
+
+============================================================
+Runtime Statistics for threshold 0.2:
+  Total images processed: 134
+  Average time per image: 0.3326s
+  Min time per image: 0.2235s
+  Max time per image: 0.8297s
+  Total matching time: 44.5697s
+  Total threshold time: 45.2450s
+  Overhead (non-matching): 0.6753s
+============================================================
+
+
+============================================================
+Total runtime for method GeoFormer: 45.2486s (0.75 min)
+============================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+====================================================================================================
+DETAILED MLE VALUES FOR EACH IMAGE PAIR
+====================================================================================================
+Pair ID    GT File                        Category   MLE Distance   
+----------------------------------------------------------------------------------------------------
+0          control_points_S10_1_2.txt     Unknown    2.675238       
+1          control_points_P26_1_2.txt     Unknown    9.853541       
+2          control_points_S67_1_2.txt     Unknown    1.594507       
+3          control_points_S01_1_2.txt     Unknown    2.842383       
+4          control_points_P09_1_2.txt     Unknown    16.081244      
+5          control_points_P11_1_2.txt     Unknown    9.743531       
+6          control_points_S17_1_2.txt     Unknown    2.302335       
+7          control_points_S65_1_2.txt     Unknown    1.720452       
+8          control_points_S52_1_2.txt     Unknown    1.141520       
+9          control_points_S44_1_2.txt     Unknown    2.742792       
+10         control_points_S02_1_2.txt     Unknown    2.514495       
+11         control_points_S42_1_2.txt     Unknown    4.486351       
+12         control_points_P28_1_2.txt     Unknown    11.662771      
+13         control_points_S56_1_2.txt     Unknown    3.926476       
+14         control_points_P02_1_2.txt     Unknown    4.398231       
+15         control_points_S06_1_2.txt     Unknown    2.391978       
+16         control_points_P43_1_2.txt     Unknown    10.448815      
+17         control_points_S33_1_2.txt     Unknown    1.593501       
+18         control_points_S55_1_2.txt     Unknown    1.733166       
+19         control_points_P29_1_2.txt     Unknown    10.167254      
+20         control_points_P31_1_2.txt     Unknown    13.920630      
+21         control_points_S32_1_2.txt     Unknown    3.232906       
+22         control_points_P15_1_2.txt     Unknown    11.672264      
+23         control_points_A02_1_2.txt     Unknown    9.387296       
+24         control_points_S25_1_2.txt     Unknown    2.170049       
+25         control_points_S60_1_2.txt     Unknown    2.380143       
+26         control_points_A07_1_2.txt     Unknown    8.176007       
+27         control_points_A09_1_2.txt     Unknown    7.484101       
+28         control_points_P16_1_2.txt     Unknown    10.118531      
+29         control_points_A10_1_2.txt     Unknown    4.042025       
+30         control_points_S27_1_2.txt     Unknown    2.437880       
+31         control_points_S48_1_2.txt     Unknown    1.936911       
+32         control_points_P12_1_2.txt     Unknown    14.254195      
+33         control_points_S71_1_2.txt     Unknown    4.855705       
+34         control_points_S69_1_2.txt     Unknown    3.076011       
+35         control_points_S07_1_2.txt     Unknown    1.142906       
+36         control_points_S24_1_2.txt     Unknown    2.378029       
+37         control_points_S18_1_2.txt     Unknown    2.337271       
+38         control_points_P27_1_2.txt     Unknown    10.725090      
+39         control_points_S45_1_2.txt     Unknown    2.936371       
+40         control_points_P20_1_2.txt     Unknown    10.775695      
+41         control_points_S16_1_2.txt     Unknown    2.479172       
+42         control_points_S03_1_2.txt     Unknown    3.811932       
+43         control_points_S49_1_2.txt     Unknown    2.411234       
+44         control_points_P47_1_2.txt     Unknown    9.893366       
+45         control_points_S12_1_2.txt     Unknown    1.740045       
+46         control_points_P49_1_2.txt     Unknown    10.563767      
+47         control_points_P42_1_2.txt     Unknown    10.383831      
+48         control_points_P34_1_2.txt     Unknown    10.981954      
+49         control_points_P38_1_2.txt     Unknown    12.846631      
+50         control_points_S28_1_2.txt     Unknown    2.739878       
+51         control_points_S23_1_2.txt     Unknown    2.540140       
+52         control_points_P01_1_2.txt     Unknown    8.552329       
+53         control_points_S62_1_2.txt     Unknown    2.648272       
+54         control_points_P14_1_2.txt     Unknown    14.720405      
+55         control_points_A04_1_2.txt     Unknown    3.714687       
+56         control_points_P33_1_2.txt     Unknown    8.378801       
+57         control_points_P22_1_2.txt     Unknown    11.868621      
+58         control_points_S57_1_2.txt     Unknown    2.290900       
+59         control_points_S22_1_2.txt     Unknown    2.101578       
+60         control_points_S13_1_2.txt     Unknown    2.627462       
+61         control_points_S63_1_2.txt     Unknown    2.795869       
+62         control_points_A11_1_2.txt     Unknown    2.664034       
+63         control_points_P10_1_2.txt     Unknown    13.871522      
+64         control_points_P46_1_2.txt     Unknown    10.224323      
+65         control_points_P13_1_2.txt     Unknown    11.296879      
+66         control_points_P30_1_2.txt     Unknown    15.943012      
+67         control_points_S20_1_2.txt     Unknown    2.234521       
+68         control_points_S38_1_2.txt     Unknown    1.723935       
+69         control_points_S40_1_2.txt     Unknown    2.844530       
+70         control_points_A13_1_2.txt     Unknown    5.695134       
+71         control_points_S34_1_2.txt     Unknown    1.785726       
+72         control_points_S51_1_2.txt     Unknown    0.981616       
+73         control_points_S68_1_2.txt     Unknown    1.318694       
+74         control_points_P25_1_2.txt     Unknown    9.166745       
+75         control_points_S14_1_2.txt     Unknown    1.771663       
+76         control_points_S26_1_2.txt     Unknown    2.074494       
+77         control_points_P08_1_2.txt     Unknown    10.262303      
+78         control_points_P44_1_2.txt     Unknown    10.321232      
+79         control_points_S15_1_2.txt     Unknown    1.861681       
+80         control_points_S66_1_2.txt     Unknown    2.694481       
+81         control_points_S09_1_2.txt     Unknown    1.521096       
+82         control_points_S64_1_2.txt     Unknown    2.409882       
+83         control_points_P03_1_2.txt     Unknown    8.859615       
+84         control_points_S35_1_2.txt     Unknown    1.813812       
+85         control_points_P07_1_2.txt     Unknown    9.277373       
+86         control_points_S50_1_2.txt     Unknown    1.880808       
+87         control_points_A05_1_2.txt     Unknown    6.497014       
+88         control_points_S19_1_2.txt     Unknown    1.960566       
+89         control_points_P32_1_2.txt     Unknown    6.866881       
+90         control_points_P24_1_2.txt     Unknown    10.350925      
+91         control_points_P17_1_2.txt     Unknown    18.628082      
+92         control_points_P41_1_2.txt     Unknown    13.009158      
+93         control_points_S08_1_2.txt     Unknown    1.363575       
+94         control_points_P04_1_2.txt     Unknown    12.699160      
+95         control_points_A01_1_2.txt     Unknown    3.084390       
+96         control_points_A08_1_2.txt     Unknown    21.403471      
+97         control_points_P35_1_2.txt     Unknown    13.517517      
+98         control_points_S58_1_2.txt     Unknown    2.402095       
+99         control_points_S53_1_2.txt     Unknown    3.858175       
+100        control_points_S47_1_2.txt     Unknown    1.953861       
+101        control_points_S11_1_2.txt     Unknown    2.258814       
+102        control_points_S61_1_2.txt     Unknown    0.750899       
+103        control_points_S21_1_2.txt     Unknown    2.512256       
+104        control_points_S54_1_2.txt     Unknown    2.830995       
+105        control_points_P48_1_2.txt     Unknown    9.529015       
+106        control_points_P39_1_2.txt     Unknown    8.140547       
+107        control_points_A03_1_2.txt     Unknown    5.193345       
+108        control_points_P36_1_2.txt     Unknown    13.044934      
+109        control_points_P18_1_2.txt     Unknown    12.983709      
+110        control_points_P23_1_2.txt     Unknown    15.060337      
+111        control_points_P37_1_2.txt     Unknown    23.992998      
+112        control_points_A06_1_2.txt     Unknown    5.855293       
+113        control_points_S70_1_2.txt     Unknown    3.057640       
+114        control_points_P40_1_2.txt     Unknown    7.371499       
+115        control_points_S29_1_2.txt     Unknown    2.270711       
+116        control_points_P05_1_2.txt     Unknown    13.654099      
+117        control_points_A14_1_2.txt     Unknown    5.678985       
+118        control_points_S41_1_2.txt     Unknown    2.265175       
+119        control_points_S36_1_2.txt     Unknown    2.570064       
+120        control_points_S37_1_2.txt     Unknown    2.152343       
+121        control_points_P19_1_2.txt     Unknown    8.073063       
+122        control_points_A12_1_2.txt     Unknown    3.317105       
+123        control_points_P21_1_2.txt     Unknown    10.524366      
+124        control_points_S43_1_2.txt     Unknown    2.165271       
+125        control_points_S59_1_2.txt     Unknown    4.058808       
+126        control_points_P45_1_2.txt     Unknown    8.012020       
+127        control_points_S04_1_2.txt     Unknown    2.367276       
+128        control_points_S30_1_2.txt     Unknown    2.379558       
+129        control_points_S31_1_2.txt     Unknown    3.095281       
+130        control_points_P06_1_2.txt     Unknown    8.153111       
+131        control_points_S05_1_2.txt     Unknown    2.285827       
+132        control_points_S46_1_2.txt     Unknown    3.563161       
+133        control_points_S39_1_2.txt     Unknown    2.939530       
+====================================================================================================
+
+
+====================================================================================================
+CATEGORY DISTRIBUTION
+====================================================================================================
+Class S: 0 pairs
+Class A: 0 pairs
+Class P: 0 pairs
+Class Overall: 134 pairs
+====================================================================================================
+
+
+====================================================================================================
+CALCULATING PAIR-WISE STATISTICS FOR EACH CATEGORY
+====================================================================================================
+
+--- Class Overall ---
+Number of pairs (n): 134
+
+Step 1: Sum of all MLE values
+  Σx_i = 817.753492
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 817.753492 / 134 = 6.102638
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 2.675238 - 6.102638 = -3.427400
+  Pair 1: 9.853541 - 6.102638 = 3.750903
+  Pair 2: 1.594507 - 6.102638 = -4.508131
+  Pair 3: 2.842383 - 6.102638 = -3.260255
+  Pair 4: 16.081244 - 6.102638 = 9.978606
+  ... (129 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 11.747071
+  (deviation_1)² = 14.069272
+  (deviation_2)² = 20.323246
+  (deviation_3)² = 10.629262
+  (deviation_4)² = 99.572580
+  ... (129 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 3145.210985
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 3145.210985 / 133 = 23.648203
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(23.648203) = 4.862942
+
+  FINAL RESULTS:
+  Mean ± Std = 6.102638 ± 4.862942
+  Min: 0.750899
+  Max: 23.992998
+  Median: 3.440133
+
+
+--- Class S ---
+No pairs in this category
+
+--- Class A ---
+No pairs in this category
+
+--- Class P ---
+No pairs in this category
+
+
+====================================================================================================
+SUMMARY TABLE: PAIR-WISE MLE STATISTICS
+====================================================================================================
+Category             N         Mean          Std          Min          Max       Median
+----------------------------------------------------------------------------------------------------
+Overall            134     6.102638     4.862942     0.750899    23.992998     3.440133
+S                    0     0.000000     0.000000     0.000000     0.000000     0.000000
+A                    0     0.000000     0.000000     0.000000     0.000000     0.000000
+P                    0     0.000000     0.000000     0.000000     0.000000     0.000000
+====================================================================================================
+
+
+============================================================
+Runtime Statistics for threshold 0.2:
+  Total images processed: 134
+  Average time per image: 0.3289s
+  Min time per image: 0.2269s
+  Max time per image: 0.8074s
+  Total matching time: 44.0761s
+  Total threshold time: 44.7781s
+  Overhead (non-matching): 0.7019s
+============================================================
+
+
+============================================================
+Total runtime for method GeoFormer: 44.7827s (0.75 min)
+============================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+====================================================================================================
+DETAILED MLE VALUES FOR EACH IMAGE PAIR
+====================================================================================================
+Pair ID    GT File                             Category   MLE Distance   
+----------------------------------------------------------------------------------------------------
+0          control_points_S10_1_2.txt          S          2.675238       
+1          control_points_P26_1_2.txt          P          9.853541       
+2          control_points_S67_1_2.txt          S          1.594507       
+3          control_points_S01_1_2.txt          S          2.842383       
+4          control_points_P09_1_2.txt          P          16.081244      
+5          control_points_P11_1_2.txt          P          9.743531       
+6          control_points_S17_1_2.txt          S          2.302335       
+7          control_points_S65_1_2.txt          S          1.720452       
+8          control_points_S52_1_2.txt          S          1.141520       
+9          control_points_S44_1_2.txt          S          2.742792       
+10         control_points_S02_1_2.txt          S          2.514495       
+11         control_points_S42_1_2.txt          S          4.486351       
+12         control_points_P28_1_2.txt          P          11.662771      
+13         control_points_S56_1_2.txt          S          3.926476       
+14         control_points_P02_1_2.txt          P          4.398231       
+15         control_points_S06_1_2.txt          S          2.391978       
+16         control_points_P43_1_2.txt          P          10.448815      
+17         control_points_S33_1_2.txt          S          1.593501       
+18         control_points_S55_1_2.txt          S          1.733166       
+19         control_points_P29_1_2.txt          P          10.167254      
+20         control_points_P31_1_2.txt          P          13.920630      
+21         control_points_S32_1_2.txt          S          3.232906       
+22         control_points_P15_1_2.txt          P          11.672264      
+23         control_points_A02_1_2.txt          A          9.387296       
+24         control_points_S25_1_2.txt          S          2.170049       
+25         control_points_S60_1_2.txt          S          2.380143       
+26         control_points_A07_1_2.txt          A          8.176007       
+27         control_points_A09_1_2.txt          A          7.484101       
+28         control_points_P16_1_2.txt          P          10.118531      
+29         control_points_A10_1_2.txt          A          4.042025       
+30         control_points_S27_1_2.txt          S          2.437880       
+31         control_points_S48_1_2.txt          S          1.936911       
+32         control_points_P12_1_2.txt          P          14.254195      
+33         control_points_S71_1_2.txt          S          4.855705       
+34         control_points_S69_1_2.txt          S          3.076011       
+35         control_points_S07_1_2.txt          S          1.142906       
+36         control_points_S24_1_2.txt          S          2.378029       
+37         control_points_S18_1_2.txt          S          2.337271       
+38         control_points_P27_1_2.txt          P          10.725090      
+39         control_points_S45_1_2.txt          S          2.936371       
+40         control_points_P20_1_2.txt          P          10.775695      
+41         control_points_S16_1_2.txt          S          2.479172       
+42         control_points_S03_1_2.txt          S          3.811932       
+43         control_points_S49_1_2.txt          S          2.411234       
+44         control_points_P47_1_2.txt          P          9.893366       
+45         control_points_S12_1_2.txt          S          1.740045       
+46         control_points_P49_1_2.txt          P          10.563767      
+47         control_points_P42_1_2.txt          P          10.383831      
+48         control_points_P34_1_2.txt          P          10.981954      
+49         control_points_P38_1_2.txt          P          12.846631      
+50         control_points_S28_1_2.txt          S          2.739878       
+51         control_points_S23_1_2.txt          S          2.540140       
+52         control_points_P01_1_2.txt          P          8.552329       
+53         control_points_S62_1_2.txt          S          2.648272       
+54         control_points_P14_1_2.txt          P          14.720405      
+55         control_points_A04_1_2.txt          A          3.714687       
+56         control_points_P33_1_2.txt          P          8.378801       
+57         control_points_P22_1_2.txt          P          11.868621      
+58         control_points_S57_1_2.txt          S          2.290900       
+59         control_points_S22_1_2.txt          S          2.101578       
+60         control_points_S13_1_2.txt          S          2.627462       
+61         control_points_S63_1_2.txt          S          2.795869       
+62         control_points_A11_1_2.txt          A          2.664034       
+63         control_points_P10_1_2.txt          P          13.871522      
+64         control_points_P46_1_2.txt          P          10.224323      
+65         control_points_P13_1_2.txt          P          11.296879      
+66         control_points_P30_1_2.txt          P          15.943012      
+67         control_points_S20_1_2.txt          S          2.234521       
+68         control_points_S38_1_2.txt          S          1.723935       
+69         control_points_S40_1_2.txt          S          2.844530       
+70         control_points_A13_1_2.txt          A          5.695134       
+71         control_points_S34_1_2.txt          S          1.785726       
+72         control_points_S51_1_2.txt          S          0.981616       
+73         control_points_S68_1_2.txt          S          1.318694       
+74         control_points_P25_1_2.txt          P          9.166745       
+75         control_points_S14_1_2.txt          S          1.771663       
+76         control_points_S26_1_2.txt          S          2.074494       
+77         control_points_P08_1_2.txt          P          10.262303      
+78         control_points_P44_1_2.txt          P          10.321232      
+79         control_points_S15_1_2.txt          S          1.861681       
+80         control_points_S66_1_2.txt          S          2.694481       
+81         control_points_S09_1_2.txt          S          1.521096       
+82         control_points_S64_1_2.txt          S          2.409882       
+83         control_points_P03_1_2.txt          P          8.859615       
+84         control_points_S35_1_2.txt          S          1.813812       
+85         control_points_P07_1_2.txt          P          9.277373       
+86         control_points_S50_1_2.txt          S          1.880808       
+87         control_points_A05_1_2.txt          A          6.497014       
+88         control_points_S19_1_2.txt          S          1.960566       
+89         control_points_P32_1_2.txt          P          6.866881       
+90         control_points_P24_1_2.txt          P          10.350925      
+91         control_points_P17_1_2.txt          P          18.628082      
+92         control_points_P41_1_2.txt          P          13.009158      
+93         control_points_S08_1_2.txt          S          1.363575       
+94         control_points_P04_1_2.txt          P          12.699160      
+95         control_points_A01_1_2.txt          A          3.084390       
+96         control_points_A08_1_2.txt          A          21.403471      
+97         control_points_P35_1_2.txt          P          13.517517      
+98         control_points_S58_1_2.txt          S          2.402095       
+99         control_points_S53_1_2.txt          S          3.858175       
+100        control_points_S47_1_2.txt          S          1.953861       
+101        control_points_S11_1_2.txt          S          2.258814       
+102        control_points_S61_1_2.txt          S          0.750899       
+103        control_points_S21_1_2.txt          S          2.512256       
+104        control_points_S54_1_2.txt          S          2.830995       
+105        control_points_P48_1_2.txt          P          9.529015       
+106        control_points_P39_1_2.txt          P          8.140547       
+107        control_points_A03_1_2.txt          A          5.193345       
+108        control_points_P36_1_2.txt          P          13.044934      
+109        control_points_P18_1_2.txt          P          12.983709      
+110        control_points_P23_1_2.txt          P          15.060337      
+111        control_points_P37_1_2.txt          P          23.992998      
+112        control_points_A06_1_2.txt          A          5.855293       
+113        control_points_S70_1_2.txt          S          3.057640       
+114        control_points_P40_1_2.txt          P          7.371499       
+115        control_points_S29_1_2.txt          S          2.270711       
+116        control_points_P05_1_2.txt          P          13.654099      
+117        control_points_A14_1_2.txt          A          5.678985       
+118        control_points_S41_1_2.txt          S          2.265175       
+119        control_points_S36_1_2.txt          S          2.570064       
+120        control_points_S37_1_2.txt          S          2.152343       
+121        control_points_P19_1_2.txt          P          8.073063       
+122        control_points_A12_1_2.txt          A          3.317105       
+123        control_points_P21_1_2.txt          P          10.524366      
+124        control_points_S43_1_2.txt          S          2.165271       
+125        control_points_S59_1_2.txt          S          4.058808       
+126        control_points_P45_1_2.txt          P          8.012020       
+127        control_points_S04_1_2.txt          S          2.367276       
+128        control_points_S30_1_2.txt          S          2.379558       
+129        control_points_S31_1_2.txt          S          3.095281       
+130        control_points_P06_1_2.txt          P          8.153111       
+131        control_points_S05_1_2.txt          S          2.285827       
+132        control_points_S46_1_2.txt          S          3.563161       
+133        control_points_S39_1_2.txt          S          2.939530       
+====================================================================================================
+
+
+====================================================================================================
+CATEGORY DISTRIBUTION
+====================================================================================================
+Class S: 71 pairs
+Class A: 14 pairs
+Class P: 49 pairs
+Class Overall: 134 pairs
+====================================================================================================
+
+
+====================================================================================================
+CALCULATING PAIR-WISE STATISTICS FOR EACH CATEGORY
+====================================================================================================
+
+--- Class Overall ---
+Number of pairs (n): 134
+
+Step 1: Sum of all MLE values
+  Σx_i = 817.753492
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 817.753492 / 134 = 6.102638
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 2.675238 - 6.102638 = -3.427400
+  Pair 1: 9.853541 - 6.102638 = 3.750903
+  Pair 2: 1.594507 - 6.102638 = -4.508131
+  Pair 3: 2.842383 - 6.102638 = -3.260255
+  Pair 4: 16.081244 - 6.102638 = 9.978606
+  ... (129 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 11.747071
+  (deviation_1)² = 14.069272
+  (deviation_2)² = 20.323246
+  (deviation_3)² = 10.629262
+  (deviation_4)² = 99.572580
+  ... (129 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 3145.210985
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 3145.210985 / 133 = 23.648203
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(23.648203) = 4.862942
+
+  FINAL RESULTS:
+  Mean ± Std = 6.102638 ± 4.862942
+  Min: 0.750899
+  Max: 23.992998
+  Median: 3.440133
+
+
+--- Class S ---
+Number of pairs (n): 71
+
+Step 1: Sum of all MLE values
+  Σx_i = 170.714681
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 170.714681 / 71 = 2.404432
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 2.675238 - 2.404432 = 0.270806
+  Pair 1: 1.594507 - 2.404432 = -0.809925
+  Pair 2: 2.842383 - 2.404432 = 0.437951
+  Pair 3: 2.302335 - 2.404432 = -0.102097
+  Pair 4: 1.720452 - 2.404432 = -0.683980
+  ... (66 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 0.073336
+  (deviation_1)² = 0.655979
+  (deviation_2)² = 0.191801
+  (deviation_3)² = 0.010424
+  (deviation_4)² = 0.467829
+  ... (66 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 41.687428
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 41.687428 / 70 = 0.595535
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(0.595535) = 0.771709
+
+  FINAL RESULTS:
+  Mean ± Std = 2.404432 ± 0.771709
+  Min: 0.750899
+  Max: 4.855705
+  Median: 2.378029
+
+
+--- Class A ---
+Number of pairs (n): 14
+
+Step 1: Sum of all MLE values
+  Σx_i = 92.192888
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 92.192888 / 14 = 6.585206
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 9.387296 - 6.585206 = 2.802089
+  Pair 1: 8.176007 - 6.585206 = 1.590801
+  Pair 2: 7.484101 - 6.585206 = 0.898895
+  Pair 3: 4.042025 - 6.585206 = -2.543181
+  Pair 4: 3.714687 - 6.585206 = -2.870519
+  ... (9 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 7.851704
+  (deviation_1)² = 2.530647
+  (deviation_2)² = 0.808012
+  (deviation_3)² = 6.467770
+  (deviation_4)² = 8.239879
+  ... (9 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 287.882081
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 287.882081 / 13 = 22.144775
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(22.144775) = 4.705824
+
+  FINAL RESULTS:
+  Mean ± Std = 6.585206 ± 4.705824
+  Min: 2.664034
+  Max: 21.403471
+  Median: 5.687059
+
+
+--- Class P ---
+Number of pairs (n): 49
+
+Step 1: Sum of all MLE values
+  Σx_i = 554.845923
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 554.845923 / 49 = 11.323386
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 9.853541 - 11.323386 = -1.469845
+  Pair 1: 16.081244 - 11.323386 = 4.757858
+  Pair 2: 9.743531 - 11.323386 = -1.579855
+  Pair 3: 11.662771 - 11.323386 = 0.339385
+  Pair 4: 4.398231 - 11.323386 = -6.925155
+  ... (44 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 2.160445
+  (deviation_1)² = 22.637212
+  (deviation_2)² = 2.495941
+  (deviation_3)² = 0.115182
+  (deviation_4)² = 47.957769
+  ... (44 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 505.779309
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 505.779309 / 48 = 10.537069
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(10.537069) = 3.246085
+
+  FINAL RESULTS:
+  Mean ± Std = 11.323386 ± 3.246085
+  Min: 4.398231
+  Max: 23.992998
+  Median: 10.524366
+
+
+
+====================================================================================================
+SUMMARY TABLE: PAIR-WISE MLE STATISTICS
+====================================================================================================
+Category             N         Mean          Std          Min          Max       Median
+----------------------------------------------------------------------------------------------------
+Overall            134     6.102638     4.862942     0.750899    23.992998     3.440133
+S                   71     2.404432     0.771709     0.750899     4.855705     2.378029
+A                   14     6.585206     4.705824     2.664034    21.403471     5.687059
+P                   49    11.323386     3.246085     4.398231    23.992998    10.524366
+====================================================================================================
+
+
+====================================================================================================
+LATEX TABLE FORMAT:
+====================================================================================================
+GeoFormer  & 6.10\pm4.86 & 2.40\pm0.77 & 6.59\pm4.71 & 11.32\pm3.25 \\
+====================================================================================================
+
+
+============================================================
+Runtime Statistics for threshold 0.2:
+  Total images processed: 134
+  Average time per image: 0.3301s
+  Min time per image: 0.2282s
+  Max time per image: 0.8012s
+  Total matching time: 44.2311s
+  Total threshold time: 44.9250s
+  Overhead (non-matching): 0.6939s
+============================================================
+
+
+============================================================
+Total runtime for method GeoFormer: 44.9314s (0.75 min)
+============================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+====================================================================================================
+DETAILED MLE VALUES FOR EACH IMAGE PAIR
+====================================================================================================
+Pair ID    GT File                             Category   MLE Distance   
+----------------------------------------------------------------------------------------------------
+0          control_points_S10_1_2.txt          S          2.675238       
+1          control_points_P26_1_2.txt          P          9.853541       
+2          control_points_S67_1_2.txt          S          1.594507       
+3          control_points_S01_1_2.txt          S          2.842383       
+4          control_points_P09_1_2.txt          P          16.081244      
+5          control_points_P11_1_2.txt          P          9.743531       
+6          control_points_S17_1_2.txt          S          2.302335       
+7          control_points_S65_1_2.txt          S          1.720452       
+8          control_points_S52_1_2.txt          S          1.141520       
+9          control_points_S44_1_2.txt          S          2.742792       
+10         control_points_S02_1_2.txt          S          2.514495       
+11         control_points_S42_1_2.txt          S          4.486351       
+12         control_points_P28_1_2.txt          P          11.662771      
+13         control_points_S56_1_2.txt          S          3.926476       
+14         control_points_P02_1_2.txt          P          4.398231       
+15         control_points_S06_1_2.txt          S          2.391978       
+16         control_points_P43_1_2.txt          P          10.448815      
+17         control_points_S33_1_2.txt          S          1.593501       
+18         control_points_S55_1_2.txt          S          1.733166       
+19         control_points_P29_1_2.txt          P          10.167254      
+20         control_points_P31_1_2.txt          P          13.920630      
+21         control_points_S32_1_2.txt          S          3.232906       
+22         control_points_P15_1_2.txt          P          11.672264      
+23         control_points_A02_1_2.txt          A          9.387296       
+24         control_points_S25_1_2.txt          S          2.170049       
+25         control_points_S60_1_2.txt          S          2.380143       
+26         control_points_A07_1_2.txt          A          8.176007       
+27         control_points_A09_1_2.txt          A          7.484101       
+28         control_points_P16_1_2.txt          P          10.118531      
+29         control_points_A10_1_2.txt          A          4.042025       
+30         control_points_S27_1_2.txt          S          2.437880       
+31         control_points_S48_1_2.txt          S          1.936911       
+32         control_points_P12_1_2.txt          P          14.254195      
+33         control_points_S71_1_2.txt          S          4.855705       
+34         control_points_S69_1_2.txt          S          3.076011       
+35         control_points_S07_1_2.txt          S          1.142906       
+36         control_points_S24_1_2.txt          S          2.378029       
+37         control_points_S18_1_2.txt          S          2.337271       
+38         control_points_P27_1_2.txt          P          10.725090      
+39         control_points_S45_1_2.txt          S          2.936371       
+40         control_points_P20_1_2.txt          P          10.775695      
+41         control_points_S16_1_2.txt          S          2.479172       
+42         control_points_S03_1_2.txt          S          3.811932       
+43         control_points_S49_1_2.txt          S          2.411234       
+44         control_points_P47_1_2.txt          P          9.893366       
+45         control_points_S12_1_2.txt          S          1.740045       
+46         control_points_P49_1_2.txt          P          10.563767      
+47         control_points_P42_1_2.txt          P          10.383831      
+48         control_points_P34_1_2.txt          P          10.981954      
+49         control_points_P38_1_2.txt          P          12.846631      
+50         control_points_S28_1_2.txt          S          2.739878       
+51         control_points_S23_1_2.txt          S          2.540140       
+52         control_points_P01_1_2.txt          P          8.552329       
+53         control_points_S62_1_2.txt          S          2.648272       
+54         control_points_P14_1_2.txt          P          14.720405      
+55         control_points_A04_1_2.txt          A          3.714687       
+56         control_points_P33_1_2.txt          P          8.378801       
+57         control_points_P22_1_2.txt          P          11.868621      
+58         control_points_S57_1_2.txt          S          2.290900       
+59         control_points_S22_1_2.txt          S          2.101578       
+60         control_points_S13_1_2.txt          S          2.627462       
+61         control_points_S63_1_2.txt          S          2.795869       
+62         control_points_A11_1_2.txt          A          2.664034       
+63         control_points_P10_1_2.txt          P          13.871522      
+64         control_points_P46_1_2.txt          P          10.224323      
+65         control_points_P13_1_2.txt          P          11.296879      
+66         control_points_P30_1_2.txt          P          15.943012      
+67         control_points_S20_1_2.txt          S          2.234521       
+68         control_points_S38_1_2.txt          S          1.723935       
+69         control_points_S40_1_2.txt          S          2.844530       
+70         control_points_A13_1_2.txt          A          5.695134       
+71         control_points_S34_1_2.txt          S          1.785726       
+72         control_points_S51_1_2.txt          S          0.981616       
+73         control_points_S68_1_2.txt          S          1.318694       
+74         control_points_P25_1_2.txt          P          9.166745       
+75         control_points_S14_1_2.txt          S          1.771663       
+76         control_points_S26_1_2.txt          S          2.074494       
+77         control_points_P08_1_2.txt          P          10.262303      
+78         control_points_P44_1_2.txt          P          10.321232      
+79         control_points_S15_1_2.txt          S          1.861681       
+80         control_points_S66_1_2.txt          S          2.694481       
+81         control_points_S09_1_2.txt          S          1.521096       
+82         control_points_S64_1_2.txt          S          2.409882       
+83         control_points_P03_1_2.txt          P          8.859615       
+84         control_points_S35_1_2.txt          S          1.813812       
+85         control_points_P07_1_2.txt          P          9.277373       
+86         control_points_S50_1_2.txt          S          1.880808       
+87         control_points_A05_1_2.txt          A          6.497014       
+88         control_points_S19_1_2.txt          S          1.960566       
+89         control_points_P32_1_2.txt          P          6.866881       
+90         control_points_P24_1_2.txt          P          10.350925      
+91         control_points_P17_1_2.txt          P          18.628082      
+92         control_points_P41_1_2.txt          P          13.009158      
+93         control_points_S08_1_2.txt          S          1.363575       
+94         control_points_P04_1_2.txt          P          12.699160      
+95         control_points_A01_1_2.txt          A          3.084390       
+96         control_points_A08_1_2.txt          A          21.403471      
+97         control_points_P35_1_2.txt          P          13.517517      
+98         control_points_S58_1_2.txt          S          2.402095       
+99         control_points_S53_1_2.txt          S          3.858175       
+100        control_points_S47_1_2.txt          S          1.953861       
+101        control_points_S11_1_2.txt          S          2.258814       
+102        control_points_S61_1_2.txt          S          0.750899       
+103        control_points_S21_1_2.txt          S          2.512256       
+104        control_points_S54_1_2.txt          S          2.830995       
+105        control_points_P48_1_2.txt          P          9.529015       
+106        control_points_P39_1_2.txt          P          8.140547       
+107        control_points_A03_1_2.txt          A          5.193345       
+108        control_points_P36_1_2.txt          P          13.044934      
+109        control_points_P18_1_2.txt          P          12.983709      
+110        control_points_P23_1_2.txt          P          15.060337      
+111        control_points_P37_1_2.txt          P          23.992998      
+112        control_points_A06_1_2.txt          A          5.855293       
+113        control_points_S70_1_2.txt          S          3.057640       
+114        control_points_P40_1_2.txt          P          7.371499       
+115        control_points_S29_1_2.txt          S          2.270711       
+116        control_points_P05_1_2.txt          P          13.654099      
+117        control_points_A14_1_2.txt          A          5.678985       
+118        control_points_S41_1_2.txt          S          2.265175       
+119        control_points_S36_1_2.txt          S          2.570064       
+120        control_points_S37_1_2.txt          S          2.152343       
+121        control_points_P19_1_2.txt          P          8.073063       
+122        control_points_A12_1_2.txt          A          3.317105       
+123        control_points_P21_1_2.txt          P          10.524366      
+124        control_points_S43_1_2.txt          S          2.165271       
+125        control_points_S59_1_2.txt          S          4.058808       
+126        control_points_P45_1_2.txt          P          8.012020       
+127        control_points_S04_1_2.txt          S          2.367276       
+128        control_points_S30_1_2.txt          S          2.379558       
+129        control_points_S31_1_2.txt          S          3.095281       
+130        control_points_P06_1_2.txt          P          8.153111       
+131        control_points_S05_1_2.txt          S          2.285827       
+132        control_points_S46_1_2.txt          S          3.563161       
+133        control_points_S39_1_2.txt          S          2.939530       
+====================================================================================================
+
+
+====================================================================================================
+CATEGORY DISTRIBUTION
+====================================================================================================
+Class S: 71 pairs
+Class A: 14 pairs
+Class P: 49 pairs
+Class Overall: 134 pairs
+====================================================================================================
+
+
+====================================================================================================
+CALCULATING PAIR-WISE STATISTICS FOR EACH CATEGORY
+====================================================================================================
+
+--- Class Overall ---
+Number of pairs (n): 134
+
+Step 1: Sum of all MLE values
+  Σx_i = 817.753492
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 817.753492 / 134 = 6.102638
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 2.675238 - 6.102638 = -3.427400
+  Pair 1: 9.853541 - 6.102638 = 3.750903
+  Pair 2: 1.594507 - 6.102638 = -4.508131
+  Pair 3: 2.842383 - 6.102638 = -3.260255
+  Pair 4: 16.081244 - 6.102638 = 9.978606
+  ... (129 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 11.747071
+  (deviation_1)² = 14.069272
+  (deviation_2)² = 20.323246
+  (deviation_3)² = 10.629262
+  (deviation_4)² = 99.572580
+  ... (129 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 3145.210985
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 3145.210985 / 133 = 23.648203
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(23.648203) = 4.862942
+
+  FINAL RESULTS:
+  Mean ± Std = 6.102638 ± 4.862942
+  Min: 0.750899
+  Max: 23.992998
+  Median: 3.440133
+
+
+--- Class S ---
+Number of pairs (n): 71
+
+Step 1: Sum of all MLE values
+  Σx_i = 170.714681
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 170.714681 / 71 = 2.404432
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 2.675238 - 2.404432 = 0.270806
+  Pair 1: 1.594507 - 2.404432 = -0.809925
+  Pair 2: 2.842383 - 2.404432 = 0.437951
+  Pair 3: 2.302335 - 2.404432 = -0.102097
+  Pair 4: 1.720452 - 2.404432 = -0.683980
+  ... (66 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 0.073336
+  (deviation_1)² = 0.655979
+  (deviation_2)² = 0.191801
+  (deviation_3)² = 0.010424
+  (deviation_4)² = 0.467829
+  ... (66 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 41.687428
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 41.687428 / 70 = 0.595535
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(0.595535) = 0.771709
+
+  FINAL RESULTS:
+  Mean ± Std = 2.404432 ± 0.771709
+  Min: 0.750899
+  Max: 4.855705
+  Median: 2.378029
+
+
+--- Class A ---
+Number of pairs (n): 14
+
+Step 1: Sum of all MLE values
+  Σx_i = 92.192888
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 92.192888 / 14 = 6.585206
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 9.387296 - 6.585206 = 2.802089
+  Pair 1: 8.176007 - 6.585206 = 1.590801
+  Pair 2: 7.484101 - 6.585206 = 0.898895
+  Pair 3: 4.042025 - 6.585206 = -2.543181
+  Pair 4: 3.714687 - 6.585206 = -2.870519
+  ... (9 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 7.851704
+  (deviation_1)² = 2.530647
+  (deviation_2)² = 0.808012
+  (deviation_3)² = 6.467770
+  (deviation_4)² = 8.239879
+  ... (9 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 287.882081
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 287.882081 / 13 = 22.144775
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(22.144775) = 4.705824
+
+  FINAL RESULTS:
+  Mean ± Std = 6.585206 ± 4.705824
+  Min: 2.664034
+  Max: 21.403471
+  Median: 5.687059
+
+
+--- Class P ---
+Number of pairs (n): 49
+
+Step 1: Sum of all MLE values
+  Σx_i = 554.845923
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 554.845923 / 49 = 11.323386
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 9.853541 - 11.323386 = -1.469845
+  Pair 1: 16.081244 - 11.323386 = 4.757858
+  Pair 2: 9.743531 - 11.323386 = -1.579855
+  Pair 3: 11.662771 - 11.323386 = 0.339385
+  Pair 4: 4.398231 - 11.323386 = -6.925155
+  ... (44 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 2.160445
+  (deviation_1)² = 22.637212
+  (deviation_2)² = 2.495941
+  (deviation_3)² = 0.115182
+  (deviation_4)² = 47.957769
+  ... (44 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 505.779309
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 505.779309 / 48 = 10.537069
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(10.537069) = 3.246085
+
+  FINAL RESULTS:
+  Mean ± Std = 11.323386 ± 3.246085
+  Min: 4.398231
+  Max: 23.992998
+  Median: 10.524366
+
+
+
+====================================================================================================
+SUMMARY TABLE: PAIR-WISE MLE STATISTICS
+====================================================================================================
+Category             N         Mean          Std          Min          Max       Median
+----------------------------------------------------------------------------------------------------
+Overall            134     6.102638     4.862942     0.750899    23.992998     3.440133
+S                   71     2.404432     0.771709     0.750899     4.855705     2.378029
+A                   14     6.585206     4.705824     2.664034    21.403471     5.687059
+P                   49    11.323386     3.246085     4.398231    23.992998    10.524366
+====================================================================================================
+
+
+====================================================================================================
+LATEX TABLE FORMAT:
+====================================================================================================
+GeoFormer  & 6.10\pm4.86 & 2.40\pm0.77 & 6.59\pm4.71 & 11.32\pm3.25 \\
+====================================================================================================
+
+
+============================================================
+Runtime Statistics for threshold 0.2:
+  Total images processed: 134
+  Average time per image: 0.3337s
+  Min time per image: 0.2246s
+  Max time per image: 0.9942s
+  Total matching time: 44.7105s
+  Total threshold time: 45.4286s
+  Overhead (non-matching): 0.7181s
+============================================================
+
+
+============================================================
+Total runtime for method GeoFormer: 45.4343s (0.76 min)
+============================================================
+
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 768, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt', 'ransac_thres': 15} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=15
+>>Finished, pairs=134 match_failed=0 matches=4239.7 match_time=0.33s
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=15 inlier_rate=0.97
+
+====================================================================================================
+DETAILED MLE VALUES FOR EACH IMAGE PAIR
+====================================================================================================
+Pair ID    GT File                             Category   MLE Distance   
+----------------------------------------------------------------------------------------------------
+0          control_points_S10_1_2.txt          S          2.675238       
+1          control_points_P26_1_2.txt          P          9.853541       
+2          control_points_S67_1_2.txt          S          1.594507       
+3          control_points_S01_1_2.txt          S          2.842383       
+4          control_points_P09_1_2.txt          P          16.081244      
+5          control_points_P11_1_2.txt          P          9.743531       
+6          control_points_S17_1_2.txt          S          2.302335       
+7          control_points_S65_1_2.txt          S          1.720452       
+8          control_points_S52_1_2.txt          S          1.141520       
+9          control_points_S44_1_2.txt          S          2.742792       
+10         control_points_S02_1_2.txt          S          2.514495       
+11         control_points_S42_1_2.txt          S          4.486351       
+12         control_points_P28_1_2.txt          P          11.662771      
+13         control_points_S56_1_2.txt          S          3.926476       
+14         control_points_P02_1_2.txt          P          4.398231       
+15         control_points_S06_1_2.txt          S          2.391978       
+16         control_points_P43_1_2.txt          P          10.448815      
+17         control_points_S33_1_2.txt          S          1.593501       
+18         control_points_S55_1_2.txt          S          1.733166       
+19         control_points_P29_1_2.txt          P          10.167254      
+20         control_points_P31_1_2.txt          P          13.920630      
+21         control_points_S32_1_2.txt          S          3.232906       
+22         control_points_P15_1_2.txt          P          11.672264      
+23         control_points_A02_1_2.txt          A          9.387296       
+24         control_points_S25_1_2.txt          S          2.170049       
+25         control_points_S60_1_2.txt          S          2.380143       
+26         control_points_A07_1_2.txt          A          8.176007       
+27         control_points_A09_1_2.txt          A          7.484101       
+28         control_points_P16_1_2.txt          P          10.118531      
+29         control_points_A10_1_2.txt          A          4.042025       
+30         control_points_S27_1_2.txt          S          2.437880       
+31         control_points_S48_1_2.txt          S          1.936911       
+32         control_points_P12_1_2.txt          P          14.254195      
+33         control_points_S71_1_2.txt          S          4.855705       
+34         control_points_S69_1_2.txt          S          3.076011       
+35         control_points_S07_1_2.txt          S          1.142906       
+36         control_points_S24_1_2.txt          S          2.378029       
+37         control_points_S18_1_2.txt          S          2.337271       
+38         control_points_P27_1_2.txt          P          10.725090      
+39         control_points_S45_1_2.txt          S          2.936371       
+40         control_points_P20_1_2.txt          P          10.775695      
+41         control_points_S16_1_2.txt          S          2.479172       
+42         control_points_S03_1_2.txt          S          3.811932       
+43         control_points_S49_1_2.txt          S          2.411234       
+44         control_points_P47_1_2.txt          P          9.893366       
+45         control_points_S12_1_2.txt          S          1.740045       
+46         control_points_P49_1_2.txt          P          10.563767      
+47         control_points_P42_1_2.txt          P          10.383831      
+48         control_points_P34_1_2.txt          P          10.981954      
+49         control_points_P38_1_2.txt          P          12.846631      
+50         control_points_S28_1_2.txt          S          2.739878       
+51         control_points_S23_1_2.txt          S          2.540140       
+52         control_points_P01_1_2.txt          P          8.552329       
+53         control_points_S62_1_2.txt          S          2.648272       
+54         control_points_P14_1_2.txt          P          14.720405      
+55         control_points_A04_1_2.txt          A          3.714687       
+56         control_points_P33_1_2.txt          P          8.378801       
+57         control_points_P22_1_2.txt          P          11.868621      
+58         control_points_S57_1_2.txt          S          2.290900       
+59         control_points_S22_1_2.txt          S          2.101578       
+60         control_points_S13_1_2.txt          S          2.627462       
+61         control_points_S63_1_2.txt          S          2.795869       
+62         control_points_A11_1_2.txt          A          2.664034       
+63         control_points_P10_1_2.txt          P          13.871522      
+64         control_points_P46_1_2.txt          P          10.224323      
+65         control_points_P13_1_2.txt          P          11.296879      
+66         control_points_P30_1_2.txt          P          15.943012      
+67         control_points_S20_1_2.txt          S          2.234521       
+68         control_points_S38_1_2.txt          S          1.723935       
+69         control_points_S40_1_2.txt          S          2.844530       
+70         control_points_A13_1_2.txt          A          5.695134       
+71         control_points_S34_1_2.txt          S          1.785726       
+72         control_points_S51_1_2.txt          S          0.981616       
+73         control_points_S68_1_2.txt          S          1.318694       
+74         control_points_P25_1_2.txt          P          9.166745       
+75         control_points_S14_1_2.txt          S          1.771663       
+76         control_points_S26_1_2.txt          S          2.074494       
+77         control_points_P08_1_2.txt          P          10.262303      
+78         control_points_P44_1_2.txt          P          10.321232      
+79         control_points_S15_1_2.txt          S          1.861681       
+80         control_points_S66_1_2.txt          S          2.694481       
+81         control_points_S09_1_2.txt          S          1.521096       
+82         control_points_S64_1_2.txt          S          2.409882       
+83         control_points_P03_1_2.txt          P          8.859615       
+84         control_points_S35_1_2.txt          S          1.813812       
+85         control_points_P07_1_2.txt          P          9.277373       
+86         control_points_S50_1_2.txt          S          1.880808       
+87         control_points_A05_1_2.txt          A          6.497014       
+88         control_points_S19_1_2.txt          S          1.960566       
+89         control_points_P32_1_2.txt          P          6.866881       
+90         control_points_P24_1_2.txt          P          10.350925      
+91         control_points_P17_1_2.txt          P          18.628082      
+92         control_points_P41_1_2.txt          P          13.009158      
+93         control_points_S08_1_2.txt          S          1.363575       
+94         control_points_P04_1_2.txt          P          12.699160      
+95         control_points_A01_1_2.txt          A          3.084390       
+96         control_points_A08_1_2.txt          A          21.403471      
+97         control_points_P35_1_2.txt          P          13.517517      
+98         control_points_S58_1_2.txt          S          2.402095       
+99         control_points_S53_1_2.txt          S          3.858175       
+100        control_points_S47_1_2.txt          S          1.953861       
+101        control_points_S11_1_2.txt          S          2.258814       
+102        control_points_S61_1_2.txt          S          0.750899       
+103        control_points_S21_1_2.txt          S          2.512256       
+104        control_points_S54_1_2.txt          S          2.830995       
+105        control_points_P48_1_2.txt          P          9.529015       
+106        control_points_P39_1_2.txt          P          8.140547       
+107        control_points_A03_1_2.txt          A          5.193345       
+108        control_points_P36_1_2.txt          P          13.044934      
+109        control_points_P18_1_2.txt          P          12.983709      
+110        control_points_P23_1_2.txt          P          15.060337      
+111        control_points_P37_1_2.txt          P          23.992998      
+112        control_points_A06_1_2.txt          A          5.855293       
+113        control_points_S70_1_2.txt          S          3.057640       
+114        control_points_P40_1_2.txt          P          7.371499       
+115        control_points_S29_1_2.txt          S          2.270711       
+116        control_points_P05_1_2.txt          P          13.654099      
+117        control_points_A14_1_2.txt          A          5.678985       
+118        control_points_S41_1_2.txt          S          2.265175       
+119        control_points_S36_1_2.txt          S          2.570064       
+120        control_points_S37_1_2.txt          S          2.152343       
+121        control_points_P19_1_2.txt          P          8.073063       
+122        control_points_A12_1_2.txt          A          3.317105       
+123        control_points_P21_1_2.txt          P          10.524366      
+124        control_points_S43_1_2.txt          S          2.165271       
+125        control_points_S59_1_2.txt          S          4.058808       
+126        control_points_P45_1_2.txt          P          8.012020       
+127        control_points_S04_1_2.txt          S          2.367276       
+128        control_points_S30_1_2.txt          S          2.379558       
+129        control_points_S31_1_2.txt          S          3.095281       
+130        control_points_P06_1_2.txt          P          8.153111       
+131        control_points_S05_1_2.txt          S          2.285827       
+132        control_points_S46_1_2.txt          S          3.563161       
+133        control_points_S39_1_2.txt          S          2.939530       
+====================================================================================================
+
+
+====================================================================================================
+CATEGORY DISTRIBUTION
+====================================================================================================
+Class S: 71 pairs
+Class A: 14 pairs
+Class P: 49 pairs
+Class Overall: 134 pairs
+====================================================================================================
+
+
+====================================================================================================
+CALCULATING PAIR-WISE STATISTICS FOR EACH CATEGORY
+====================================================================================================
+
+--- Class Overall ---
+Number of pairs (n): 134
+
+Step 1: Sum of all MLE values
+  Σx_i = 817.753492
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 817.753492 / 134 = 6.102638
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 2.675238 - 6.102638 = -3.427400
+  Pair 1: 9.853541 - 6.102638 = 3.750903
+  Pair 2: 1.594507 - 6.102638 = -4.508131
+  Pair 3: 2.842383 - 6.102638 = -3.260255
+  Pair 4: 16.081244 - 6.102638 = 9.978606
+  ... (129 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 11.747071
+  (deviation_1)² = 14.069272
+  (deviation_2)² = 20.323246
+  (deviation_3)² = 10.629262
+  (deviation_4)² = 99.572580
+  ... (129 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 3145.210985
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 3145.210985 / 133 = 23.648203
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(23.648203) = 4.862942
+
+  FINAL RESULTS:
+  Mean ± Std = 6.102638 ± 4.862942
+  Min: 0.750899
+  Max: 23.992998
+  Median: 3.440133
+
+
+--- Class S ---
+Number of pairs (n): 71
+
+Step 1: Sum of all MLE values
+  Σx_i = 170.714681
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 170.714681 / 71 = 2.404432
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 2.675238 - 2.404432 = 0.270806
+  Pair 1: 1.594507 - 2.404432 = -0.809925
+  Pair 2: 2.842383 - 2.404432 = 0.437951
+  Pair 3: 2.302335 - 2.404432 = -0.102097
+  Pair 4: 1.720452 - 2.404432 = -0.683980
+  ... (66 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 0.073336
+  (deviation_1)² = 0.655979
+  (deviation_2)² = 0.191801
+  (deviation_3)² = 0.010424
+  (deviation_4)² = 0.467829
+  ... (66 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 41.687428
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 41.687428 / 70 = 0.595535
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(0.595535) = 0.771709
+
+  FINAL RESULTS:
+  Mean ± Std = 2.404432 ± 0.771709
+  Min: 0.750899
+  Max: 4.855705
+  Median: 2.378029
+
+
+--- Class A ---
+Number of pairs (n): 14
+
+Step 1: Sum of all MLE values
+  Σx_i = 92.192888
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 92.192888 / 14 = 6.585206
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 9.387296 - 6.585206 = 2.802089
+  Pair 1: 8.176007 - 6.585206 = 1.590801
+  Pair 2: 7.484101 - 6.585206 = 0.898895
+  Pair 3: 4.042025 - 6.585206 = -2.543181
+  Pair 4: 3.714687 - 6.585206 = -2.870519
+  ... (9 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 7.851704
+  (deviation_1)² = 2.530647
+  (deviation_2)² = 0.808012
+  (deviation_3)² = 6.467770
+  (deviation_4)² = 8.239879
+  ... (9 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 287.882081
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 287.882081 / 13 = 22.144775
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(22.144775) = 4.705824
+
+  FINAL RESULTS:
+  Mean ± Std = 6.585206 ± 4.705824
+  Min: 2.664034
+  Max: 21.403471
+  Median: 5.687059
+
+
+--- Class P ---
+Number of pairs (n): 49
+
+Step 1: Sum of all MLE values
+  Σx_i = 554.845923
+
+Step 2: Calculate Mean
+  Mean = Σx_i / n = 554.845923 / 49 = 11.323386
+
+Step 3: Calculate Deviations (x_i - mean)
+  First 5 deviations:
+  Pair 0: 9.853541 - 11.323386 = -1.469845
+  Pair 1: 16.081244 - 11.323386 = 4.757858
+  Pair 2: 9.743531 - 11.323386 = -1.579855
+  Pair 3: 11.662771 - 11.323386 = 0.339385
+  Pair 4: 4.398231 - 11.323386 = -6.925155
+  ... (44 more pairs)
+
+Step 4: Square the Deviations
+  First 5 squared deviations:
+  (deviation_0)² = 2.160445
+  (deviation_1)² = 22.637212
+  (deviation_2)² = 2.495941
+  (deviation_3)² = 0.115182
+  (deviation_4)² = 47.957769
+  ... (44 more)
+
+Step 5: Sum of Squared Deviations
+  Σ(x_i - mean)² = 505.779309
+
+Step 6: Calculate Variance
+  Variance = Σ(x_i - mean)² / (n-1)
+  Variance = 505.779309 / 48 = 10.537069
+
+Step 7: Calculate Standard Deviation
+  Std = √(Variance) = √(10.537069) = 3.246085
+
+  FINAL RESULTS:
+  Mean ± Std = 11.323386 ± 3.246085
+  Min: 4.398231
+  Max: 23.992998
+  Median: 10.524366
+
+
+
+====================================================================================================
+SUMMARY TABLE: PAIR-WISE MLE STATISTICS
+====================================================================================================
+Category             N         Mean          Std          Min          Max       Median
+----------------------------------------------------------------------------------------------------
+Overall            134     6.102638     4.862942     0.750899    23.992998     3.440133
+S                   71     2.404432     0.771709     0.750899     4.855705     2.378029
+A                   14     6.585206     4.705824     2.664034    21.403471     5.687059
+P                   49    11.323386     3.246085     4.398231    23.992998    10.524366
+====================================================================================================
+
+
+====================================================================================================
+LATEX TABLE FORMAT:
+====================================================================================================
+GeoFormer  & 6.10\pm4.86 & 2.40\pm0.77 & 6.59\pm4.71 & 11.32\pm3.25 \\
+====================================================================================================
+
+
+============================================================
+Runtime Statistics for threshold 0.2:
+  Total images processed: 134
+  Average time per image: 0.3268s
+  Min time per image: 0.2212s
+  Max time per image: 0.8007s
+  Total matching time: 43.7894s
+  Total threshold time: 44.4747s
+  Overhead (non-matching): 0.6853s
+============================================================
+
+
+============================================================
+Total runtime for method GeoFormer: 44.4799s (0.74 min)
+============================================================
+

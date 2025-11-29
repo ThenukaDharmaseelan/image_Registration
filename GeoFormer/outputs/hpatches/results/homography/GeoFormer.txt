@@ -1,0 +1,8 @@
+
+>>>> Method=GeoFormer Default config: {'class': 'GeoFormer', 'match_threshold': 0.2, 'imsize': 480, 'no_match_upscale': True, 'ckpt': 'saved_ckpt/geoformer.ckpt'} Thres: [0.2]
+Matching thres: 0.2  Save to: None
+
+>>>>Eval hpatches: task=homography method=GeoFormer_geoformer_noms scale_H=True rthres=3 thres=[1, 3, 5, 10] 
+>>Finished, pairs=0 match_failed=0 matches=nan match_time=nans
+==== Homography Estimation ====
+Hest solver=cv est_failed=0 ransac_thres=3 inlier_rate=nan
