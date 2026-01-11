@@ -5,7 +5,7 @@ jaxlib==0.4.23
 accelerate==0.23.0
 diffusers==0.20.2
 ipympl==0.9.3
-transformers==4.34.0
+transformers==4.53.0
 xformers==0.0.22
 numpy==1.23.5
 scipy==1.11.3
