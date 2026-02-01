@@ -375,6 +375,8 @@ pip install -r requirements.txt
 - opencv-python==4.10.0.84
 - matplotlib==3.8.0
 
+## ▶️ Running the Code
+
 ### Evaluation on FIRE Dataset
 ```bash
 python retinaregnet_fire_evaluation_script.py
