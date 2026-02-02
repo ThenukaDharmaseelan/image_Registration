@@ -402,6 +402,18 @@ FIRE_Image_Registration_Results/
 - 📈 **Success rate comparison** - Model performance comparison metrics
 - 🔧 **Stage results** - Intermediate processing outputs for analysis
 
+## Metrics Evaluation(NCC,NMI,Hausdorff Distance (95th percentile),Centerline Dice ,SSIM,Wasserstein Distance)
+
+```bash
+python evaluate.py
+```
+
+
+
+
+
+
+
 
 
 
