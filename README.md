@@ -328,7 +328,7 @@ outputs/
     ├── registered_images/ # Warped/aligned images
     └── overlays/          # Registration quality visualizations
 
-
+```
 ## Method 3:  # 👁️ RetinaRegNet
 
 ## 📊 Dataset
