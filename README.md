@@ -22,7 +22,7 @@ FIRE/
 - **Hardware**: 16GB+ GPU VRAM (tested on NVIDIA RTX 3090 with 24GB), 32GB+ System RAM recommended
 
 
-## Method 1: # 👁️ EyeLiner: 
+## Method 1: 👁️EyeLiner: 
 
 Automatic longitudinal image registration using fundus landmarks. EyeLiner is a deep learning pipeline for automatically aligning longitudinal fundus images using vessel and optic disk segmentation.
 
@@ -266,7 +266,7 @@ If you get errors about missing vessel or disc masks:
 - Verify segmentation paths in your CSV file match AutoMorph output locations
 - Check that all images have corresponding segmentation files
 
-  ## Method 2: # 👁️ GeoFormer
+  ## Method 2: 👁️ GeoFormer
   
 ## 📊 Dataset
 
@@ -329,7 +329,7 @@ outputs/
     └── overlays/          # Registration quality visualizations
 
 ```
-## Method 3:  # 👁️ RetinaRegNet
+## Method 3:  👁️ RetinaRegNet
 
 ## 📊 Dataset
 ### FIRE Dataset Structure
