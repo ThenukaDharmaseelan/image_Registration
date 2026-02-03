@@ -291,9 +291,9 @@ https://github.com/ThenukaDharmaseelan/image_Registration.git
 cd GeoFormer
 ```
 3. **Install dependencies**
-```bash
+```
 pip install -r requirements.txt
-
+```
 ## 📥 Download Pre-trained Model
 
 Download the pre-trained model from [Google Drive](https://drive.google.com/drive/folders/1giglxwMGlOb3qE-5AQ60R4495KxRGTqb) and place it in the `saved_ckpt/` folder:
